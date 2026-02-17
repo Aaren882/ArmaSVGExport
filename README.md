@@ -6,6 +6,7 @@
    <img src="https://img.shields.io/steam/views/3668042555?label=Steam%20Views&logo=steam" >
    <img src="https://img.shields.io/steam/subscriptions/3668042555?label=Steam%20Downloads&logo=steam" > -->
 </p>
+
 ## About ArmaSVGExport
 
 **ArmaSVGExport** is a simple tool allows you to generate map SVG without diagnostic mode enabled.
