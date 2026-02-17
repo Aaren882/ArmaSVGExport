@@ -1,0 +1,4 @@
+name = "Arma SVG Exporter"
+author = "Aaren"
+prefix = "SVG_Export"
+mainprefix = "z"

@@ -1,0 +1,13 @@
+*.pbo
+.hemttout
+hemtt
+hemtt.exe
+*.biprivatekey
+*.hemttprivatekey
+
+# Extension
+.vs
+ArmaSVGExport
+*.exp
+*.lib
+*.pdb
