@@ -43,5 +43,5 @@
   _output_Dir //- ...My_Arma3_Directory/Maps/myWorld.svg
   ```
 
-## Disclaimer
+## Special Thanks
 This mod is inspired by [TacControl](https://github.com/WolfCorps/TacControl/blob/fdafd470b10209e49cf6cabfcff21418af6a5115/src/ArmaExt/src/Modules/ModuleImageDirectory.cpp#L206-L227) (__Dedmen__ and __Dahlgren__)
