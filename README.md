@@ -14,7 +14,7 @@
 ### Check [diag_exportTerrainSVG](https://community.bistudio.com/wiki/diag_exportTerrainSVG) for more details.
 
 ## Quick Example
-* ### In Editor
+* ### In Eden 3D Editor
   <p>
     <img width="248" height="250" alt="image" src="https://github.com/user-attachments/assets/6b198ed5-00fb-4b76-956b-30ab9c581c24" />
   </p>
@@ -25,7 +25,7 @@
     <img width="241" height="175" alt="image" src="https://github.com/user-attachments/assets/0f0e8464-0365-4875-b1c0-3cd79e0e40a6" />
   </p>
 * ### Script
-  * Open a world in Editor.
+  * Open a world in Eden 3D Editor.
   * Put this in debug console
   ```sqf 
   private _output_Dir = [
