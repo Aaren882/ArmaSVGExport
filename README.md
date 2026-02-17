@@ -2,11 +2,10 @@
    <a href="https://github.com/Aaren882/ArmaSVGExport/releases/latest">
       <img src="https://img.shields.io/github/v/release/Aaren882/ArmaSVGExport?label=Latest&color=blue&logo=github" >
    </a>
-   <!-- <img src="https://img.shields.io/steam/size/2853828143?label=File%20Size&logo=steam" >
-   <img src="https://img.shields.io/steam/views/2853828143?label=Steam%20Views&logo=steam" >
-   <img src="https://img.shields.io/steam/subscriptions/2853828143?label=Steam%20Downloads&logo=steam" > -->
+   <!-- <img src="https://img.shields.io/steam/size/3668042555?label=File%20Size&logo=steam" >
+   <img src="https://img.shields.io/steam/views/3668042555?label=Steam%20Views&logo=steam" >
+   <img src="https://img.shields.io/steam/subscriptions/3668042555?label=Steam%20Downloads&logo=steam" > -->
 </p>
-
 ## About ArmaSVGExport
 
 **ArmaSVGExport** is a simple tool allows you to generate map SVG without diagnostic mode enabled.
