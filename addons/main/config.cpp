@@ -6,7 +6,7 @@ class CfgPatches
 	{
 		authors[] = {"Aaren"};
 		requiredVersion = REQUIRED_VERSION;
-		requiredAddons[] = {"A3_Data_F"};
+		requiredAddons[] = {"A3_3DEN"};
 		units[] = {};
 		weapons[] = {};
 		VERSION_CONFIG;
@@ -20,3 +20,5 @@ class Extended_PreInit_EventHandlers
 		init = QUOTE(call COMPILE_FILE(XEH_PreInit));
 	};
 };
+
+#include "UI/3den.hpp"

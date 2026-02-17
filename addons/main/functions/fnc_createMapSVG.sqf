@@ -21,7 +21,7 @@ Returns:
 
 Examples
     (begin example)
-        ["ww.svg",[true,false,true,false,true,true]] call SVG_Export_main_fnc_createMapSVG
+        ["FileName",[true,false,true,false,true,true]] call SVG_Export_main_fnc_createMapSVG
     (end)
 
 Author:
@@ -29,18 +29,17 @@ Author:
 ---------------------------------------------------------------------------- */
 
 params [
-  ["_fileName",""],
-  [true,false,true,false,true,true]
+  ["_fileName", ""],
+  ["_exportFlags", [true,true,true,true,true,true]]
 ];
 TRACE_1("fnc_createMapSVG",_this);
-
 
 if (_fileName == "") exitWith {
   ERROR("value ""_fileName"" cannot be empty.");
   ""
 };
 
-private _result = "ArmaSVGExport" callExtension [_fileName + ".svg", [true,false,true,false,true,true]];
+private _result = "ArmaSVGExport" callExtension [_fileName + ".svg", _exportFlags];
 _result params ["_outputPath"];
 
 INFO_1("ArmaSVGExport successful = ""%1""",_outputPath);

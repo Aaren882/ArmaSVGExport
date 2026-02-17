@@ -2,3 +2,17 @@ name = "Arma SVG Exporter"
 author = "Aaren"
 prefix = "SVG_Export"
 mainprefix = "z"
+
+[version]
+path = "addons/main/script_version.hpp"
+git_hash = 0 # Disabled
+
+[properties]
+url = "https://github.com/Aaren882/ArmaSVGExport"
+
+[files]
+include = [
+  "LICENSE",
+  "mod.cpp",
+  "ArmaSVGExport_x64.dll"
+]

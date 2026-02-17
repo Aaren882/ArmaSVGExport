@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Map_SVG_Export">
+    <Package name="Map_SVG_Export">
+        <Key ID="STR_SVG_Export_main_Fail">
+            <Original>ERROR! Check RPT log.</Original>
+            <Chinese>錯誤！請檢查 RPT 日誌。</Chinese>
+        </Key>
+        <Key ID="STR_SVG_Export_main_Success">
+            <Original>Export Successful</Original>
+            <Chinese>輸出成功</Chinese>
+        </Key>
+        <Key ID="STR_SVG_Export_main_Title">
+            <Original>Export Map SVG file</Original>
+            <Chinese>輸出地圖 SVG 圖檔</Chinese>
+        </Key>
+    </Package>
+</Project>
